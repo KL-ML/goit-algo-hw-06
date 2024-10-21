@@ -2,7 +2,7 @@
 
 **Опис:**
 Для цієї роботи була побудована структура молекули кофеїну у вигляді графу.
-
+![graf_coffein.png](https://github.com/KL-ML/goit-algo-hw-06/blob/main/graf_coffein.png)
 
 # Отримано наступні результати:
 
